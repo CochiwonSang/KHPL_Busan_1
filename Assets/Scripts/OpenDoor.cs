@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// From Sangmin
+/// From Sangmin, sadlkasmdlamdklm
 /// </summary>
 public class OpenDoor : MonoBehaviour
 {
